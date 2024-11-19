@@ -19,7 +19,7 @@ La API que nos dió nuestro cliente es: [Fake Store API](https://fakestoreapi.co
 
 ## Nota de Nawedev
 
-Ví el challenge en las historias de Instagram media hora antes de que se cerrarán las postulaciones :/... Hice lo que pude, espero estar al nivel.
+Ví el challenge en las historias de Instagram media hora antes de que se cerrarán las postulaciones... Hice lo que pude🥲, espero estar al nivel.
 
 Aprovecho para agredecer a Goncy por todo lo que hace, aporta mucho a la comunidad. Sos groso Goncy!
 
