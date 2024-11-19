@@ -30,15 +30,13 @@ Para destacar, podés agregar cualquier cosa que se te ocurra que llame la atenc
 1. Clona el repositorio:
 
 ```shell
-git clone https://github.com/jarrisondev/wallbit-challenge.git
+git clone https://github.com/UltraShunior/wallbit-challenge.git
 ```
 
 2. Instala las dependencias:
 
 ```shell
 cd wallbit-challenge
-
-git checkout jarrisondev
 
 npm install
 ```
