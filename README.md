@@ -17,12 +17,11 @@ La API que nos dió nuestro cliente es: [Fake Store API](https://fakestoreapi.co
 - [X] Mostrar el costo total del carrito.
 - [X] Mostrar la fecha de creación del carrito.
 
-## Bonus
+## Nota de Nawedev
 
-Para destacar, podés agregar cualquier cosa que se te ocurra que llame la atención. No tiene por qué ser necesariamente en el código, o una dependencia. Puede ser algo visual, un easter egg, una funcionalidad, o bueno, algo en el código.
+Ví el challenge en las historias de Instagram media hora antes de que se cerrarán las postulaciones :/... Hice lo que pude, espero estar al nivel.
 
-> [!NOTE]
-> Siempre recordá que lo que agregues debe sumar a la experiencia del usuario y no complicar su navegación. Tenés que pensar que quien va a usar la aplicación no va a haber hablado con vos previamente y aun así debería poder usar la aplicación y obtener la mejor experiencia posible.
+Aprovecho para agredecer a Goncy por todo lo que hace, aporta mucho a la comunidad. Sos groso Goncy!
 
 ## Instrucciones
 
