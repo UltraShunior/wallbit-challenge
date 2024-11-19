@@ -1,6 +1,6 @@
 
 
-const Footer = () => {
+export const Footer = () => {
   return (
     <footer className="w-[70%] h-[3rem] mx-auto mt-8 flex justify-between max-md:w-full">
       <span className=''>
