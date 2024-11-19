@@ -1,4 +1,4 @@
-import React from 'react';
+
 import topoImg from '../../assets/topo.webp';
 
 export const Header = ({ title }: { title: string }) => {
